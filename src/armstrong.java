@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class pallindrome {
+public class armstrong {
     public static void main(String[] args) {
         int sum = 0, temp;
         Scanner sc = new Scanner(System.in);

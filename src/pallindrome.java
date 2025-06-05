@@ -11,7 +11,10 @@ public class pallindrome {
             num1 = num1 / 10;
         }
         if(sum==copy){
-            System.
+            System.out.println("pallindrome number");
+        }
+        else {
+            System.out.println("not pallindrome");
         }
 
     }
